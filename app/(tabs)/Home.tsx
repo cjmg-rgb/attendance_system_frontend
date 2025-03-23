@@ -1,10 +1,11 @@
+import LoginForm from 'components/login/RegisterForm'
 import { View, Text } from 'react-native'
-import React from 'react'
 
 const Home = () => {
+
   return (
-    <View className='flex flex-1 items-center justify-center'>
-      <Text>Home</Text>
+    <View className='flex-1'>
+      <LoginForm />
     </View>
   )
 }

@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "attendance",
     "name": "attendance_system",
     "slug": "attendance_system",
     "version": "1.0.0",
